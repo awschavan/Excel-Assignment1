@@ -40,7 +40,7 @@ A salary matrix across Departments and Regions (North, South, East, Mid West).
 
 ## 📁 Files
 - `Employee_Analysis.xlsx` – Excel workbook with full dashboard
-- `Exal_1.jpeg` – Screenshot of the completed assignment
+- `Exal 1.jpeg` – Screenshot of the completed assignment
 
 ## 🖼 Screenshot
-![Assignment Dashboard](./Exal_1.jpeg)
+![Assignment Dashboard](./Exal 1.jpeg)
